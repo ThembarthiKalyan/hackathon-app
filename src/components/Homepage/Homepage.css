@@ -1,0 +1,28 @@
+.create-div{
+    width: 100%;
+    height: 625px;
+    display: inline-flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    background: #003145;
+    color: white;
+    padding: 70px;
+}
+
+.rec-div{
+    width: 10px;
+    height: 100px;
+    background: yellow;
+    margin: 25px;
+}
+
+.content-div{
+    width: 643px;
+    height: 348px;
+}
+
+.rocket{
+    width: 250px;
+    height: 300px;
+    margin-left: 300px;
+}

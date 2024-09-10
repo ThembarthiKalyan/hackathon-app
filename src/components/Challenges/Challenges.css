@@ -1,0 +1,6 @@
+.challenge-div{
+    display: inline-flex;
+    flex-direction: row;
+    width: 964px;
+    height: 50px;
+}

@@ -1,0 +1,32 @@
+.ul-div{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: inline-flex;
+    flex-direction: row;
+    background: #002A3B;
+    color: white;
+    width: 100%;
+    height: 200px;
+    align-items: center;
+}
+
+.ul-div li{
+    /* display: block; */
+    float: left;
+    display: inline-flex;
+    flex-direction: row;
+    height: 45px;
+    padding-right: 50px;
+}
+
+.zero-margin{
+    margin: 0;
+}
+
+.list-div{
+    padding: 70px;
+    background: #002A3B;
+    width: 100%;
+}
